@@ -1,5 +1,3 @@
-# 📘  BACKEND README.md (Node + Express + MongoDB)
-
 ```md
 # 🛠️ Task Management System - Backend
 
